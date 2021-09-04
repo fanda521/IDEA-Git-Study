@@ -3,3 +3,4 @@
 3.在本地master 进行commit后，直接创建新分支，新分支会有master commit的部分
 4.在本地再次修改内容 进行 commit后，直接创建新分支1.0.4，之前1.0.3 的内容master没有push
 想看看1.0.4 是不是会连同这两次的commit 都会继承。
+6.
