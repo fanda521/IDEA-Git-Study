@@ -10,6 +10,7 @@ public class IdeaGitApplication {
         SpringApplication.run(IdeaGitApplication.class, args);
         //222
         String str ="aa";
+        String git="git";
     }
 
 }
