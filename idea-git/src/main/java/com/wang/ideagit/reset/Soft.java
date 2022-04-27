@@ -12,4 +12,6 @@ public class Soft {
     private int age;
 
     private String city;//修改
+
+    private String province;//修改2
 }
