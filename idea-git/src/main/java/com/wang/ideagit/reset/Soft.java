@@ -10,4 +10,6 @@ public class Soft {
     private String name;
 
     private int age;
+
+    private String city;//修改
 }
